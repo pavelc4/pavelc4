@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Dimas  and I'm a from Indonesia</h2>
+<h2 align="center">My name is Dimas  and I'm a from Indonesia</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java Script<br>🎯 Goals: android developer<br>🎲 Fun fact: i like macha</h6>
+<h6 align="center">✨ Creating bugs since 2021<br>📚 I'm currently learning Java Script<br>🎯 Goals: android developer<br>🎲 Fun fact: i like macha</h6>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
