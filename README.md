@@ -36,8 +36,11 @@
 
 ###
 
-  ![Pave1c's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pave1c&theme=tokyonight&hide_border=false)
-![Pave1c's Stats](https://github-readme-stats.vercel.app/api?username=Pave1c&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+ <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pave1c&theme=tokyonight&hide_border=false" alt="Pave1c's Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pave1c&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Pave1c's Stats">
+</div>
+
 
 ###
   
