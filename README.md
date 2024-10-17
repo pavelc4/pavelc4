@@ -28,7 +28,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+
+
 </div>
+
+
+
+###
+
+  ![Pave1c's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pave1c&theme=tokyonight&hide_border=false)
+![Pave1c's Stats](https://github-readme-stats.vercel.app/api?username=Pave1c&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+###
+  
+
+
+
 
 ###
 
