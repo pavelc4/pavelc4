@@ -39,7 +39,7 @@
  <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pave1c&theme=tokyonight&hide_border=false" alt="Pave1c's Streak">
     <img src="https://github-readme-stats.vercel.app/api?username=Pave1c&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Pave1c's Stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pave1c&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
