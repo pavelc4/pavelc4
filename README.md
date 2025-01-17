@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="center">✨ Creating bugs since 2021<br>📚 I'm currently learning Java Script<br>🎯 Goals: android developer<br>🎲 Fun fact: i like macha</h6>
+<h6 align="center">✨ Creating bugs since 2021<br>📚 I'm currently learning Java Script<br>🎯 Goals: Noting<br>🎲 Fun fact: i like macha</h6>
 
 ###
 
