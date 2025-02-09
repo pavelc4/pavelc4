@@ -5,7 +5,7 @@
 ```javascript
 const profile = {
   name: "pavelc4",
-  location: "Somewhere in the Universe 🌌",
+  location: "Somewhere in the west Java",
   currentQuest: "Noting",
   interests: [
     "🎮 eFootball",
