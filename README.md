@@ -1,6 +1,6 @@
+![Banner Image](/asset/banner.png)
+
 <h1 align="center">Hey 👋 What's up?</h1>
-
-
 
 <h2 align="center">I code with</h2>
 
