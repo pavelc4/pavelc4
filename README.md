@@ -1,6 +1,9 @@
-![Banner Image](/asset/banner.png)
-
+<p align="center">
+    <img src="/asset/banner.png" alt="Banner Image" />
+</p>
 <h2 align="center">🌟 About Me 🌟</h2>
+
+
 
 ```javascript
 const profile = {
@@ -24,7 +27,15 @@ const profile = {
   ]
 };
 ```
+
 <div align="center">
+
+
+  # 💻 Environment
+![Windows 11](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Arch Craft](https://img.shields.io/badge/Arch%20Craft-1793D1?style=flat-square&logo=Arch&logoColor=ffffff)
+![Android 15](https://img.shields.io/badge/Android%2015-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
+  
   <h2 align="center">I code with</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
