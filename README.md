@@ -1,10 +1,3 @@
-<p align="center">
-    <img src="/asset/banner.png" alt="Banner Image" />
-</p>
-<h2 align="center">🌟 About Me 🌟</h2>
-
-
-
 ```javascript
 const profile = {
   name: "pavelc4",
