@@ -2,7 +2,7 @@
 const profile = {
   name: "pavelc4",
   location: "Somewhere in the west Java",
-  currentQuest: "Noting",
+  currentQuest: 'learn Go 🐹',
   interests: [
     "🎮 eFootball",
     "🎵 Music & Coding",
