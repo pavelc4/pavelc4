@@ -1,24 +1,28 @@
-```javascript
-const profile = {
-  name: "pavelc4",
-  location: "Somewhere in the west Java",
-  currentQuest: 'learn Go 🐹',
-  interests: [
-    "🎮 eFootball",
-    "🎵 Music & Coding",
-    "📚 Continuous Learning"
-  ],
-  dailyBuffs: [
-    "☕ Coffee",
-    "🎧 Music",
-    "🚬 Cigarette",
-  ],
-  commandPhilosophy: "If it works, don't touch it!",
-  target: "Can copypaste code without any error",
-  achievements: [
-    "🏆 still alive in this world"
-  ]
-};
+```rust
+
+fn main() {
+    let profile = Profile {
+        name: "pavelc4",
+        location: "Somewhere in the west Java",
+        current_quest: "learn Go 🐹 & Rust 🦀",
+        interests: &[
+            "🎮 eFootball",
+            "🎵 Music & Coding",
+            "📚 Continuous Learning",
+        ],
+        daily_buffs: &[
+            "☕ Coffee",
+            "🎧 Music",
+            "🚬 Cigarette",
+        ],
+        command_philosophy: "If it works, don't touch it!",
+        target: "Can copypaste code without any error",
+        achievements: &[
+            "🏆 still alive in this world",
+        ],
+    };
+}
+
 ```
 </div>
 <picture align="center">
