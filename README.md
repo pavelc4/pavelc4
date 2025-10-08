@@ -1,5 +1,4 @@
 ```rust
-
 fn main() {
     let profile = Profile {
         name: "pavelc4",
@@ -22,7 +21,6 @@ fn main() {
         ],
     };
 }
-
 ```
 </div>
 <picture align="center">
