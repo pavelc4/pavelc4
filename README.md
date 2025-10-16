@@ -1,25 +1,25 @@
-```rust
-fn main() {
-    let profile = Profile {
-        name: "pavelc4",
-        location: "Somewhere in the west Java",
-        current_quest: "learn Go 🐹 & Rust 🦀",
-        interests: &[
+```go
+func main() {
+    profile := Profile{
+        Name:              "pavelc4",
+        Location:          "Somewhere in West Java",
+        CurrentQuest:      "Learn Go 🐹 & Rust 🦀",
+        Interests: []string{
             "🎮 eFootball",
             "🎵 Music & Coding",
             "📚 Continuous Learning",
-        ],
-        daily_buffs: &[
+        },
+        DailyBuffs: []string{
             "☕ Coffee",
             "🎧 Music",
             "🚬 Cigarette",
-        ],
-        command_philosophy: "If it works, don't touch it!",
-        target: "Can copypaste code without any error",
-        achievements: &[
+        },
+        CommandPhilosophy: "If it works, don't touch it!",
+        Target:            "Can copypaste code without any error",
+        Achievements: []string{
             "🏆 still alive in this world",
-        ],
-    };
+        },
+    }
 }
 ```
 </div>
