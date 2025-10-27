@@ -1,26 +1,30 @@
-```go
-func main() {
-    profile := Profile{
-        Name:              "pavelc4",
-        Location:          "Somewhere in West Java",
-        CurrentQuest:      "Learn Go 🐹 & Rust 🦀",
-        Interests: []string{
-            "🎮 eFootball",
-            "🎵 Music & Coding",
-            "📚 Continuous Learning",
-        },
-        DailyBuffs: []string{
-            "☕ Coffee",
-            "🎧 Music",
-            "🚬 Cigarette",
-        },
-        CommandPhilosophy: "If it works, don't touch it!",
-        Target:            "Can copypaste code without any error",
-        Achievements: []string{
-            "🏆 still alive in this world",
-        },
-    }
-}
+```javascript
+const profile = {
+
+  name: "pavelc4",
+  location: "Somewhere in West Java",
+  currentQuest: "Learn Go 🐹 & Rust 🦀",
+  commandPhilosophy: "If it works, don't touch it!",
+  target: "backend Developer",
+
+  interests: [
+    "Linux 🤏",
+    "Music 🎧",
+    "coding 👨‍💻",
+    "Continuous Learning 📔"
+  ],
+
+  dailyBuffs: [
+    "Coffee ☕",
+    "Music 🎧",
+    "Cigarette 🚬"
+  ],
+
+  achievements: [
+    "🏆 Still alive in this world"
+  ]
+};
+
 ```
 </div>
 <picture align="center">
