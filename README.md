@@ -33,12 +33,7 @@ const profile = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 <br clear="both">
-<div style="text-align:center;">
-  <img 
-    src="https://gitroll.io/api/badges/profiles/v1/ugBDNUlKOe4fDi5unEPu8m8KwOsb2?theme=dark"
-    width="420"
-  />
-</div>
+<a href="https://gitroll.io/profile/ugBDNUlKOe4fDi5unEPu8m8KwOsb2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugBDNUlKOe4fDi5unEPu8m8KwOsb2?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 <div align="center">
 
