@@ -1,37 +1,26 @@
 ```rust
-struct Profile {
-    name: &'static str,
-    location: &'static str,
-    current_quest: &'static str,
-    command_philosophy: &'static str,
-    target: &'static str,
-    interests: Vec<&'static str>,
-    daily_buffs: Vec<&'static str>,
-    achievements: Vec<&'static str>,
-}
-
 let profile = Profile {
     name: "pavelc4",
     location: "Somewhere in West Java",
-    current_quest: "Learn Go 🐹 & Rust 🦀",
+    current_quest: "Learn Go & Rust ",
     command_philosophy: "If it works, don't touch it!",
     target: "Backend Developer",
     
     interests: vec![
-        "Linux 🤏",
-        "Music 🎧",
-        "Coding 👨‍💻",
-        "Continuous Learning 📔",
+        "Linux ",
+        "Music ",
+        "Coding ",
+        "Continuous Learning ",
     ],
     
     daily_buffs: vec![
-        "Coffee ☕",
-        "Music 🎧",
-        "Cigarette 🚬",
+        "Coffee ",
+        "Music ",
+        "Cigarette ",
     ],
     
     achievements: vec![
-        "🏆 Still alive in this world",
+        "Still alive in this world",
     ],
 };
 
