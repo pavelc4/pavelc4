@@ -1,28 +1,38 @@
-```javascript
-const profile = {
+```rust
+struct Profile {
+    name: &'static str,
+    location: &'static str,
+    current_quest: &'static str,
+    command_philosophy: &'static str,
+    target: &'static str,
+    interests: Vec<&'static str>,
+    daily_buffs: Vec<&'static str>,
+    achievements: Vec<&'static str>,
+}
 
-  name: "pavelc4",
-  location: "Somewhere in West Java",
-  currentQuest: "Learn Go 🐹 & Rust 🦀",
-  commandPhilosophy: "If it works, don't touch it!",
-  target: "backend Developer",
-
-  interests: [
-    "Linux 🤏",
-    "Music 🎧",
-    "coding 👨‍💻",
-    "Continuous Learning 📔"
-  ],
-
-  dailyBuffs: [
-    "Coffee ☕",
-    "Music 🎧",
-    "Cigarette 🚬"
-  ],
-
-  achievements: [
-    "🏆 Still alive in this world"
-  ]
+let profile = Profile {
+    name: "pavelc4",
+    location: "Somewhere in West Java",
+    current_quest: "Learn Go 🐹 & Rust 🦀",
+    command_philosophy: "If it works, don't touch it!",
+    target: "Backend Developer",
+    
+    interests: vec![
+        "Linux 🤏",
+        "Music 🎧",
+        "Coding 👨‍💻",
+        "Continuous Learning 📔",
+    ],
+    
+    daily_buffs: vec![
+        "Coffee ☕",
+        "Music 🎧",
+        "Cigarette 🚬",
+    ],
+    
+    achievements: vec![
+        "🏆 Still alive in this world",
+    ],
 };
 
 ```
