@@ -2,21 +2,21 @@
 let profile = Profile {
     name: "pavelc4",
     location: "Somewhere in West Java",
-    current_quest: "Learn Go & Rust ",
+    current_quest: "Learn Go & Rust",
     command_philosophy: "If it works, don't touch it!",
     target: "Backend Developer",
     
     interests: vec![
-        "Linux ",
-        "Music ",
-        "Coding ",
-        "Continuous Learning ",
+        "Linux",
+        "Music",
+        "Coding",
+        "Continuous Learning",
     ],
     
     daily_buffs: vec![
-        "Coffee ",
-        "Music ",
-        "Cigarette ",
+        "Coffee",
+        "Music",
+        "Cigarette",
     ],
     
     achievements: vec![
