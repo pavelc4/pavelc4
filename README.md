@@ -10,7 +10,6 @@ let profile = Profile {
         "Linux",
         "Music",
         "Coding",
-        "Continuous Learning",
     ],
     
     daily_buffs: vec![
@@ -19,8 +18,14 @@ let profile = Profile {
         "Cigarette",
     ],
     
+    current_projects: vec![
+        "Auriya - Rust Android ",
+        " Go API - Backend service",
+    ],
+    
     achievements: vec![
         "Still alive in this world",
+        "Survived production bugs",
     ],
 };
 
