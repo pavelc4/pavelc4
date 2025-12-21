@@ -20,7 +20,7 @@ let profile = Profile {
     
     current_projects: vec![
         "Auriya - Rust Android ",
-        " Go API - Backend service",
+        "Go API - Backend service",
     ],
     
     achievements: vec![
