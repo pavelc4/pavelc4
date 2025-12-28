@@ -40,14 +40,7 @@ let profile = Profile {
 </picture>
 
 ---
-
-<!-- GitHub Statistics -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=pavelc4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelc4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
-</div>
-
-
+l
 
 <!-- GitRoll Badge -->
 <a href="https://gitroll.io/profile/ugBDNUlKOe4fDi5unEPu8m8KwOsb2" target="_blank">
