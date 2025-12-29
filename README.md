@@ -40,7 +40,6 @@ let profile = Profile {
 </picture>
 
 ---
-l
 
 <!-- GitRoll Badge -->
 <a href="https://gitroll.io/profile/ugBDNUlKOe4fDi5unEPu8m8KwOsb2" target="_blank">
