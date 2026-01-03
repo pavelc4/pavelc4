@@ -41,12 +41,16 @@ let profile = Profile {
 
 ---
 
-<!-- GitRoll Badge -->
-<a href="https://gitroll.io/profile/ugBDNUlKOe4fDi5unEPu8m8KwOsb2" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/ugBDNUlKOe4fDi5unEPu8m8KwOsb2?theme=dark" alt="GitRoll Profile Badge" width="500px" />
-</a>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kd4sxkwbni7tninh5kb7pryyhu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kd4sxkwbni7tninh5kb7pryyhu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=99c1f1&interchange=true&profanity=false&mode=dark&bar_color=000000&bar_color_cover=false">
+  </a>
+</p>
 
 ---
+
+
 
 <!-- Tech Stack Icons -->
 <div>
