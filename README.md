@@ -63,9 +63,6 @@ let profile = Profile {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   
-  <!-- Frameworks & Runtime -->
-  <img src="https://cdn.simpleicons.org/bun/000000/FBFBFB" height="40" alt="bun logo" />
-  <img width="12" />
   
   <!-- DevOps & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
