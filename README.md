@@ -1,4 +1,5 @@
 ```rust
+
 let profile = Profile {
     name: "pavelc4",
     location: "Somewhere in West Java",
