@@ -52,8 +52,9 @@ let profile = Profile {
 
 ---
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pavelc4&theme=whatsapp-dark&border_radius=4.7&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
 
-
+---
 <!-- Tech Stack Icons -->
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
@@ -76,5 +77,4 @@ let profile = Profile {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="neovim logo" />
 
 </div>
-
 </div>
