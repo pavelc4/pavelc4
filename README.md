@@ -1,5 +1,12 @@
-```rust
+<p align="center">
+  <a href="https://github.com/pavelc4">
+    <img src="https://cardivo.vercel.app/api?name=pavelc4&description=Just%20an%20Ordinary%&image=https://avatars.githubusercontent.com/pavelc4&backgroundColor=%231a1a2e&pattern=leaf&colorPattern=%231a1a2e&fontColor=%23ffffff&hideIcons=true" />
+  </a>
+</p>
 
+---
+
+```rust
 let profile = Profile {
     name: "pavelc4",
     location: "Somewhere in West Java",
@@ -7,20 +14,11 @@ let profile = Profile {
     command_philosophy: "If it works, don't touch it!",
     target: "Backend Developer",
     
-    interests: vec![
-        "Linux",
-        "Music",
-        "Coding",
-    ],
-    
-    daily_buffs: vec![
-        "Coffee",
-        "Music",
-        "Cigarette",
-    ],
+    interests: vec!["Linux", "Music", "Coding"],
+    daily_buffs: vec!["Coffee", "Music", "Cigarette"],
     
     current_projects: vec![
-        "Rust Android - Desktop ",
+        "Rust Android - Desktop",
         "Go API - Backend service",
     ],
     
@@ -29,51 +27,42 @@ let profile = Profile {
         "Survived production bugs",
     ],
 };
-
 ```
+
+---
+
 <div align="center">
 
-<!-- Contribution Snake Animation -->
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=rust,go,js,ts,c,cpp,php" height="55" />
+
+  <br/><br/>
+
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=vue,svelte,elysia,tauri,tailwind,laravel" height="55" />
+
+  <br/><br/>
+
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,kubernetes,linux,git,neovim,vscode" height="55" />
+
+</div>
+
+---
+
+<h2 align="center">Stats</h2>
+
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pavelc4&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pavelc4&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pavelc4&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kd4sxkwbni7tninh5kb7pryyhu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kd4sxkwbni7tninh5kb7pryyhu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=99c1f1&interchange=true&profanity=false&mode=dark&bar_color=000000&bar_color_cover=false">
-  </a>
-</p>
-
----
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pavelc4&theme=whatsapp-dark&border_radius=4.7&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
-
----
-<!-- Tech Stack Icons -->
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  
-  
-  <!-- DevOps & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="neovim logo" />
-
-</div>
-</div>
