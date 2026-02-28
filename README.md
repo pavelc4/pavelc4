@@ -5,47 +5,15 @@
 </p>
 
 ---
-
-```rust
-let profile = Profile {
-    name: "pavelc4",
-    location: "Somewhere in West Java",
-    current_quest: "Learn Go & Rust",
-    command_philosophy: "If it works, don't touch it!",
-    target: "Backend Developer",
-    
-    interests: vec!["Linux", "Music", "Coding"],
-    daily_buffs: vec!["Coffee", "Music", "Cigarette"],
-    
-    current_projects: vec![
-        "Rust Android - Desktop",
-        "Go API - Backend service",
-    ],
-    
-    achievements: vec![
-        "Still alive in this world",
-        "Survived production bugs",
-    ],
-};
-```
-
----
-
 <div align="center">
-
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=rust,go,js,ts,c,cpp,php" height="55" />
-
   <br/><br/>
-
   <h3>Frameworks & Libraries</h3>
   <img src="https://skillicons.dev/icons?i=vue,svelte,elysia,tauri,tailwind,laravel" height="55" />
-
   <br/><br/>
-
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,kubernetes,linux,git,neovim,vscode" height="55" />
-
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,kubernetes,linux,git,neovim,vscode" height="55" >
 </div>
 
 ---
