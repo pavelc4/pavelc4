@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pavelc4">
-    <img src="https://cardivo.vercel.app/api?name=pavelc4&description=Just%20an%20Ordinary%&image=https://avatars.githubusercontent.com/pavelc4&backgroundColor=%231a1a2e&pattern=leaf&colorPattern=%231a1a2e&fontColor=%23ffffff&hideIcons=true" />
+    <img src="https://cardivo.vercel.app/api?name=pavelc4&description=Just%20an%20Ordinary%20Student&image=https://avatars.githubusercontent.com/pavelc4&backgroundColor=%231a1a2e&pattern=leaf&colorPattern=%231a1a2e&fontColor=%23ffffff&hideIcons=true" />
   </a>
 </p>
 
