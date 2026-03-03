@@ -7,13 +7,13 @@
 ---
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=rust,go,js,ts,c,cpp,php" height="55" />
+  <img src="https://skillicons.dev/icons?i=rust,go,js,ts,c,cpp" height="55" />
   <br/><br/>
   <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=vue,svelte,elysia,tauri,tailwind,laravel" height="55" />
+  <img src="https://skillicons.dev/icons?i=vue,svelte,elysia,tauri,tailwind" height="55" />
   <br/><br/>
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,kubernetes,linux,git,neovim,vscode" height="55" >
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,linux,git,neovim,vscode" height="55" >
 </div>
 
 ---
