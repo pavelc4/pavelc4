@@ -5,25 +5,28 @@
 </p>
 
 ---
-<div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=rust,go,js,ts,c,cpp" height="55" />
-  <br/><br/>
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=vue,svelte,elysia,tauri,tailwind" height="55" />
-  <br/><br/>
-  <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,linux,git,neovim,vscode" height="55" >
-</div>
+
+<table align="center">
+  <tr>
+    <td width="240" align="center" valign="middle">
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/120457320/409181590-d34d2262-b22f-4ffd-8a3f-42ffcc2c1dcf.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261008%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261008T231301Z&X-Amz-Expires=300&X-Amz-Signature=f3fbfcd8e754971c8b032bdeec981edecb27eeeffac3946d2a33ef43ca44a2c4&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif" width="100%" />
+    </td>
+    <td valign="middle">
+      <h3>About Me</h3>
+      <p>
+          Just an ordinary student with a passion for web backend development and low-level programming.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">Stats</h2>
-
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pavelc4&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pavelc4&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
-
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,ts,js,bun,cmake,docker,linux" height="50" />
+  <br/><br/>
+</div>
 
 ---
 
