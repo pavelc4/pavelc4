@@ -24,7 +24,7 @@
 
 <div align="center">
   <h3>Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,ts,js,bun,cmake,docker,linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,ts,bun,deno,cmake,git,linux" height="50" />
   <br/><br/>
 </div>
 
